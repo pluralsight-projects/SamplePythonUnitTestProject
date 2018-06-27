@@ -1,0 +1,13 @@
+*.egg-info
+.eggs/
+
+*.pyc
+__pycache__/
+
+.vscode/
+.idea/
+
+venv/
+.pytest_cache/
+
+.DS_Store
