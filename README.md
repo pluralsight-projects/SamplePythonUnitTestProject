@@ -38,4 +38,4 @@ Every time you want to check your work locally you can type that command, and it
 
 # Solution
 
-[sample/app.py](https://github.com/pluralsight-projects/SamplePythonUnitTestProject/blob/solution/sample/app.py)
+[sample/app.py](https://github.com/pluralsight-projects/SamplePythonUnitTestProject/blob/solution/SamplePythonUnitTestProject/app.py)
